@@ -19,7 +19,7 @@ Example 3:
 Input: nums = [1,3,5,6], target = 7
 Output: 4
  */
-
+public class SearchInsertPosition {
 public int searchInsert(int [] nums, int target) {
     int result = 0;
     for (int i = 0; i < nums.length; i++) {
@@ -31,4 +31,5 @@ public int searchInsert(int [] nums, int target) {
         }
     }
     return result;
+  }
 }
