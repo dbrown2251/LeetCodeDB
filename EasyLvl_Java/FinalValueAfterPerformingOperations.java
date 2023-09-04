@@ -1,5 +1,3 @@
-package EasyLvl_Java;
-
 public class FinalValueAfterPerformingOperations {
     public int finalValueAfterOperations(String[] operations) {
         int xValue = 0;
