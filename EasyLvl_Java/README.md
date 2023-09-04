@@ -1,1 +1,1 @@
-This folder contains easy level LeetCode.com problems.
+This folder contains easy level LeetCode.com problems. The files are not meant to be compiled and ran, only to be used to get correct answers to leetcode.com programming challenges.
