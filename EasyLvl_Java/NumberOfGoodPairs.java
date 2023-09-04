@@ -1,5 +1,3 @@
-package EasyLvl_Java;
-
 class NumberOfGoodPairs {
     public int numIdenticalPairs(int[] nums) {
         int count = 0;
