@@ -1,5 +1,3 @@
-package EasyLvl_Java;
-
 public class CountSortedNegativeNumbers {
     public int countNegatives(int[][] grid) {
         int count = 0;
